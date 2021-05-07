@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Countdown from './components/pages/CounterPage/CounterPage';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
